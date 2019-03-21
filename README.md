@@ -1,4 +1,4 @@
-#GCLOGPULL#
+# GCLOGPULL #
 
 GCLOGPULL pulls the **complete** list of logs from any geocache and stores them as CSV files on your PC.
 
@@ -27,7 +27,7 @@ for more details check here
 
 
 
-###Input files###
+### Input files ###
 .gc_credentials
 	 special handling für .gc_credntials
 	JSON format
@@ -37,14 +37,14 @@ gc_cachelist.txt
 
 
 
-###output files###
+### output files ###
 logdata.csv
 cachedata.csv
 copies created if files exist
 
 
 
-###technical prerequisites ###
+### technical prerequisites ###
 
 if you want to compile yourself
 
@@ -52,13 +52,13 @@ pycaching
 beautiful soup
 python 34
 
-###dependencies###
+### Dependencies ###
 credentials file
 no gui
 
 
 
-###Warranty###
+### Warranty ###
 use at your won risk
 BE AWARE of the consequences and groundspeak policies montiring !!!
 
