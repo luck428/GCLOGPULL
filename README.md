@@ -1,4 +1,4 @@
-# GCLOGPULL #
+# GCLOGPULL    GEOCACHING LOGBOOK READING TOOL #
 
 GCLOGPULL pulls the **complete** list of logs from any geocache and stores them as CSV files on your PC.
 
@@ -18,33 +18,38 @@ It runs at commandline level and has no GUI. THe output is provided in 2 CSV fil
 A default set of input files required to run the tool can be downloaded here.
 
 for more details check here
+[ link to input files] (inputfiles/gc_cachelist.txt)
 
 
+## How to run the program as .EXE ##
 
-
+you can put the .EXE into any subdirectory
 
 
 
 
 
 ### Input files ###
-.gc_credentials
+#### .gc_credentials ####
 	 special handling für .gc_credntials
 	JSON format
 
-gc_cachelist.txt
+#### gc_cachelist.txt ####
 
 
 
 
-### output files ###
+
+### Output files ###
 logdata.csv
 cachedata.csv
 copies created if files exist
 
+## How to run the program as python script ##
 
 
-### technical prerequisites ###
+
+### Technical prerequisites ###
 
 if you want to compile yourself
 
@@ -61,6 +66,5 @@ no gui
 ### Warranty ###
 use at your won risk
 BE AWARE of the consequences and groundspeak policies montiring !!!
-
 
 
