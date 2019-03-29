@@ -9,7 +9,8 @@ this little tool uses the Geocaching WEB API.
 It is mainly aimed at cache owners who want to keep statistics of their own caches or be able to quickly check who has visited their caches already. One other tool providing a similar solution is GSAK, but this is the free alternative.
 
 
-This little tool is ready to use for windows, the windows executable can be downloaded [here](https://github.com/luck428/GCLOGPULL/releases/download/V15/GCLOGPULL.exe).
+This little tool is ready to use for windows, the windows executable can be downloaded here.
+[GCLOGPULL.EXE latest version](https://github.com/luck428/GCLOGPULL/releases/download/V15/GCLOGPULL.exe).
 
 The program runs at commandline level and has no GUI. The output is provided in 2 CSV files which can easliy be processed in a spreadsheet programs.
 The program requires two mandatory input files to run.
@@ -106,9 +107,9 @@ the pycaching library is used unchanged as-is.
 ### Warranty ###
 
 # Important #
-Use at your won risk
-Especially -> BE AWARE of the consequences of groundspeak (Geocaching HQ) monitoring policies:
-Limitation as "free" user:
-Limitation as "premium" user:
-Your account can be blocked anytime if you exceed this limitations. you have been warned.
+Use at your won risk !
+Especially -> BE AWARE of the consequences of groundspeak (Geocaching HQ) monitoring policies.
+Limitation as "free" user -> For non premium members the limits are 3 full caches per day.
+Limitation as "premium" user -> the limits are currently 6,000 full caches per day (+10,000 "lite" caches).
+Your account can be blocked anytime if you exceed these limitations. You have been warned.
 
